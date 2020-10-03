@@ -4,17 +4,17 @@
 <!--***** START Printer 1 Variables from XML file URL   ******-->
 
 <InstallVar name="ipaddress1">10.0.0.201</InstallVar>
-<InstallVar name="PrinterName1">Konica_Copier</InstallVar>
+<InstallVar name="PrinterName1">KM_BW</InstallVar>
 
 <!--***** START Printer 2 Variables from XML file URL OPTIONAL   *********************-->
 
 <InstallVar name="ipaddress2">10.0.0.202</InstallVar>
-<InstallVar name="PrinterName2">Konica_Copier2</InstallVar>
+<InstallVar name="PrinterName2">KM_COLOR</InstallVar>
 
 <!--***** Printer 3  settings below Variables  OPTIONAL   ******-->
 
 <InstallVar name="ipaddress3">10.0.0.203</InstallVar>
-<InstallVar name="PrinterName3">Konica_Copier3</InstallVar>
+<InstallVar name="PrinterName3">Konica_Copier</InstallVar>
 
 <!--***** END Variables from XML file URL   ******-->
 
